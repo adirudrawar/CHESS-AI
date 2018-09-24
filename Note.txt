@@ -1,0 +1,4 @@
+Status: Coding of movement of pieces and their chance and they take enemy pieces when they land on it…is Complete.
+Remaining task: 
+1. Choosing the display pic for the pieces.
+2. Coding the actual AI.
